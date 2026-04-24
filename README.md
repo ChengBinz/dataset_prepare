@@ -267,6 +267,10 @@ dataset.jsonl + dataset/images/
 生成准确率统计 + 详细测试报告 (CSV)
 ```
 
+## 相关文档
+
+- [`docs/prompts.md`](docs/prompts.md) — 项目中所有 LLM 提示词的完整汇总
+
 ## License
 
 本项目仅用于内部模型测试，所有合同内容均为虚构合成数据。
