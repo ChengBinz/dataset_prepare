@@ -270,7 +270,8 @@ dataset.jsonl + dataset/images/
 ## 相关文档
 
 - [`docs/prompts.md`](docs/prompts.md) — 项目中所有 LLM 提示词的完整汇总
-- [`docs/kb_doc_generation_prompt.md`](docs/kb_doc_generation_prompt.md) — 根据测试用例生成 RAG 知识库测试文档的提示词
+- [`docs/kb_doc_generation_prompt.md`](docs/kb_doc_generation_prompt.md) — 根据测试用例生成 RAG 知识库测试文档的完整提示词（程序化模板）
+- [`docs/kb_doc_simple_prompt.md`](docs/kb_doc_simple_prompt.md) — 网页大模型端可直接复制粘贴使用的简化提示词
 
 ## License
 
